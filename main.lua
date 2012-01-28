@@ -254,4 +254,3 @@ function main()
 end
 
 main()
---startGame()
